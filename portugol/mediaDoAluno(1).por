@@ -6,7 +6,7 @@ programa {
     A função deverá apresentar a média. No final, a função deverá trazer um texto
     com o nome do aluno e a média, por exemplo: "Nome do aluno: 7.6578434532".
 
-    Decomposição: (Quebre o máximo que puder, em pquenas partes)
+    Decomposição: (Quebre o máximo que puder, em pequenas partes)
     - Pedir o nome do aluno
     - Pedir a primeira nota
     - Pedir a segunda nota
